@@ -74,6 +74,6 @@ This project explores Java fundamentals, object-oriented programming concepts, c
 - Improve error handling and input validation.
 
 ## 👨‍💻 Author
- github.com/subhamkar-codes
-
+[ github.com/subhamkar-codes
+](https://github.com/subhamkar-codes)
 Developed as a Java learning project to explore the transition from console applications to graphical user interfaces.
